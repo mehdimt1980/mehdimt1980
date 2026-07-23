@@ -18,7 +18,6 @@ I am a co-founder and AI product builder working at the intersection of artifici
 
 My current work focuses on designing AI-powered systems that support complex planning, resource allocation, decision-making, and organizational coordination.
 
-Alongside my work in technology and entrepreneurship, I am a doctoral researcher at LMU Munich, specializing in political theology, the history of law and religion, and the Iranian Constitutional Revolution.
 
 ## Companies
 
