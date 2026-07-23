@@ -74,38 +74,6 @@ Our focus includes:
 
 `PostgreSQL` · `Prisma` · `MongoDB` · `Docker` · `Azure` · `Vercel`
 
-## Selected Projects
-
-### V2Ray Finder
-
-An Android utility for discovering, validating, and managing V2Ray configurations.
-
-[View repository](https://github.com/mehdimt1980/v2ray-finder)
-
-### V2Ray Source Hunter
-
-A tool for discovering and processing publicly available V2Ray configuration sources.
-
-[View repository](https://github.com/mehdimt1980/v2ray-source-hunter)
-
-### Topic Modeling with BERTopic
-
-Experiments with transformer-based topic modeling and semantic analysis of textual corpora.
-
-[View repository](https://github.com/mehdimt1980/Topic-Modeling-with-BERTopic)
-
-### Text Clustering
-
-Explorations of document clustering and computational text analysis.
-
-[View repository](https://github.com/mehdimt1980/Text-Clustering)
-
-### Topic Modeling with Gensim
-
-Topic-modeling experiments using Gensim and Latent Dirichlet Allocation.
-
-[View repository](https://github.com/mehdimt1980/Topic-Modeling-with-Gensim)
-
 ## Research
 
 My academic work examines the theologico-political problem of law during the Iranian Constitutional Revolution of 1906.
