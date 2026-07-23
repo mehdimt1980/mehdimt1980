@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mehdi Mirabian
+# Mehdi Mirabian Tabar
 
 ### Co-Founder · AI Product Builder · Digital Humanities Researcher
 
